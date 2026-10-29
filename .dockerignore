@@ -1,0 +1,15 @@
+node_modules
+.next
+.git
+.gitignore
+.env*
+.claude
+.impeccable
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+npm-debug.log*
+Dockerfile
+.dockerignore
+README.md
+supabase
